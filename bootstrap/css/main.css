@@ -5,6 +5,13 @@
     box-sizing: border-box;
     width: 100%; 
 }
+.top-navbar1 {
+    background-color: #ffffff;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100%; 
+}
+    
 .boxwidth {
     padding: 0.6% 15%;
 }
@@ -17,6 +24,14 @@ img.display {
 
 .menu-container {
     background-color: #d7e4ef;
+    display: inline-block;
+    box-sizing: border-box;
+    z-index: 3;
+    width: 100%;
+    padding: 0% 17%;
+}
+.menu-container1 {
+    background-color: #ffffff;
     display: inline-block;
     box-sizing: border-box;
     z-index: 3;
