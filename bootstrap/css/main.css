@@ -324,6 +324,39 @@ img.display {
     color: black;
 }
 
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-uppercase {
+  text-transform: uppercase !important;
+}
+
+.primary-btn {
+  background-color: #d7e4ef;
+  line-height: 42px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 25px;
+  border: 3px solid #d7e4ef;
+  color: #222;
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  position: relative;
+}
+
+.primary-btn:hover {
+  background-color: #fff;
+  border: 3px solid #d7e4ef;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #d7e4ef;
+}
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
